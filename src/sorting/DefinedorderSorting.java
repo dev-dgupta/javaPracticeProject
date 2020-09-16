@@ -11,7 +11,6 @@ import java.util.Scanner;
 public class DefinedorderSorting {
 
     private final static List<String> preDefinedOrder = Arrays.asList("#", "!", "@", "%", "&", "*");
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
