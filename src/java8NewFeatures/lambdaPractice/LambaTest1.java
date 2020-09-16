@@ -1,4 +1,4 @@
-package lambdaPractice;
+package java8NewFeatures.lambdaPractice;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
