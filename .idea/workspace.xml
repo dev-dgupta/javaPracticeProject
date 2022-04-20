@@ -20,30 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf29faef-8a23-4a99-abb3-298c84ee4f1d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collectionsExample/CustomHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsExample/HashSetEqualsHashcodeProb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsExample/LRUCacheExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsExample/LinkedHashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/heapImpl/MaxHeapImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/heapImpl/MinHeapImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewProblems/ArmstrongNumberProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewProblems/LuckyNumberProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewProblems/MySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewProblems/PerfectNumberProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewProblems/SmallestBiggestProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviewProblems/SmallestSubArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8NewFeatures/FunctionalInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreadingExample/ThreadPoolExecutorS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreadingExample/blockingQueue/BlockingQueueImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreadingExample/blockingQueue/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreadingExample/blockingQueue/DataStructuresApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreadingExample/blockingQueue/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreadingExample/blockingQueue/QueueClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Sort012InArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringProblems/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/ArrayListOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/ArrayListOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdaPractice/LambaTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8NewFeatures/lambdaPractice/LambaTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeJava8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeJava8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsExample/CustomHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExample/CustomHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/arrays/ArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/ArrayMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/arrays/FindNextNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/FindNextNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/CircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/CircularLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListDS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedListRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedListRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/queues/BlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/queues/BlockingQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +75,14 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/collectionsExample" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.273878" />
     <property name="recentsLimit" value="5" />
@@ -115,6 +106,12 @@
       <recent name="D:\mb\PracticeJava8\lib" />
       <recent name="D:\mb\PracticeJava8\src\multithreadingExample" />
     </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="RunManager" selected="Application.EqualsHashCodeProblem">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -502,6 +499,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -513,36 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1832" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600243287111">
-      <screen x="1366" y="0" width="1440" height="860" />
-    </state>
-    <state x="1832" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1600243287111" />
-    <state x="1813" y="175" key="FileChooserDialogImpl" timestamp="1600239302946">
-      <screen x="1366" y="0" width="1440" height="860" />
-    </state>
-    <state x="1813" y="175" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1600239302946" />
-    <state width="1323" height="385" key="GridCell.Tab.0.bottom" timestamp="1599256975375">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="385" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1599256975375" />
-    <state width="1323" height="385" key="GridCell.Tab.0.center" timestamp="1599256975375">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="385" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1599256975375" />
-    <state width="1323" height="385" key="GridCell.Tab.0.left" timestamp="1599256975375">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="385" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1599256975375" />
-    <state width="1323" height="385" key="GridCell.Tab.0.right" timestamp="1599256975375">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="385" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1599256975375" />
-    <state x="1587" y="8" key="SettingsEditor" timestamp="1600239308728">
-      <screen x="1366" y="0" width="1440" height="860" />
-    </state>
-    <state x="1587" y="8" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1600239308728" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

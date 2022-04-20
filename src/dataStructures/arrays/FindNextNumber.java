@@ -1,4 +1,4 @@
-package com.codeWithDivya.arrays;
+package dataStructures.arrays;
 
 import java.util.Arrays;
 

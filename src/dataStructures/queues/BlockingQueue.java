@@ -1,4 +1,4 @@
-package com.codeWithDivya.queues;
+package dataStructures.queues;
 
 public class BlockingQueue {
 }

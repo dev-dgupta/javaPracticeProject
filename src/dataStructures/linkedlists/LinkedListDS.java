@@ -1,4 +1,4 @@
-package com.codeWithDivya.linkedlists;
+package dataStructures.linkedlists;
 
 import java.util.NoSuchElementException;
 

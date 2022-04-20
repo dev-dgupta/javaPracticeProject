@@ -1,4 +1,4 @@
-package com.codeWithDivya.linkedlists;
+package dataStructures.linkedlists;
 
 public class ReverseLinkedListRecursion {
 }
