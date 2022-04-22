@@ -12,7 +12,7 @@
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
     <bytecodeTargetLevel>
-      <module name="PracticeJava8" target="8" />
+      <module name="PracticeJava8" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>

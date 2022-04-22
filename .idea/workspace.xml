@@ -19,20 +19,47 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf29faef-8a23-4a99-abb3-298c84ee4f1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cf29faef-8a23-4a99-abb3-298c84ee4f1d" name="Default" comment="minor alignments">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeJava8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeJava8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/AlgorithmsVal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/ArrayListOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/ComparatorExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/ComparatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/DateExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/DateTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/EnumExample$BankTokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/EnumExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/EqualsHashCodeProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/EualsHashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/Problem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/Problem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/ReportCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/StringTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/com/codeWithDivya/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/com/codeWithDivya/inheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/com/codeWithDivya/inheritance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/com/codeWithDivya/inheritance/DefaultConstructorCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/com/codeWithDivya/inheritance/InstanceOfCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/console.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/CalculateFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/CalculateFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/ExecutorFrameworkExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/ExecutorFrameworkExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/FutureTaskExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/FutureTaskExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/MultiTaskExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/MultiTaskExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/MultipleRunnableClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/MultipleRunnableClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/RejectionExecutionHandlerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/RejectionExecutionHandlerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/TestOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/TestOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/TestThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/TestThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/TestTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/multithreadingExample/TestTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/sorting/DefinedorderSorting$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/sorting/DefinedorderSorting$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/sorting/DefinedorderSorting$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/sorting/DefinedorderSorting$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava8/sorting/DefinedorderSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava8/sorting/DefinedorderSorting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/collectionsExample/CustomHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExample/CustomHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/arrays/ArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/ArrayMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/arrays/FindNextNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/arrays/FindNextNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/CircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/CircularLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListDS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/LinkedListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedListRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/linkedlists/ReverseLinkedListRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataStructures/queues/BlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/queues/BlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsExample/HashSetEqualsHashcodeProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExample/HashMapEqualsHashcodeProb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsExample/LinkedHashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsExample/HashSetEqualsHashCodeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +109,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/collectionsExample" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.273878" />
     <property name="recentsLimit" value="5" />
@@ -113,7 +140,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.EqualsHashCodeProblem">
+  <component name="RunManager" selected="Application.HashSetEqualsHashCodeExample">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -305,19 +332,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="DefinedorderSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.DefinedorderSorting" />
-      <module name="PracticeJava8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EqualsHashCodeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.EqualsHashCodeProblem" />
       <module name="PracticeJava8" />
@@ -325,9 +339,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EualsHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.EualsHashCode" />
+    <configuration name="HashMapEqualsHashcodeProb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsExample.HashMapEqualsHashcodeProb" />
       <module name="PracticeJava8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetEqualsHashCodeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsExample.HashSetEqualsHashCodeExample" />
+      <module name="PracticeJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionsExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -365,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DefinedorderSorting" />
       <item itemvalue="Application.EqualsHashCodeProblem" />
-      <item itemvalue="Application.EualsHashCode" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StringTesting" />
+      <item itemvalue="Application.HashMapEqualsHashcodeProb" />
+      <item itemvalue="Application.HashSetEqualsHashCodeExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetEqualsHashCodeExample" />
+        <item itemvalue="Application.HashMapEqualsHashcodeProb" />
         <item itemvalue="Application.EqualsHashCodeProblem" />
         <item itemvalue="Application.StringTesting" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EualsHashCode" />
-        <item itemvalue="Application.DefinedorderSorting" />
       </list>
     </recent_temporary>
   </component>
@@ -484,6 +511,14 @@
       <workItem from="1522662960204" duration="3707000" />
       <workItem from="1522990289214" duration="1466000" />
     </task>
+    <task id="LOCAL-00001" summary="minor alignments">
+      <created>1650455739298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650455739298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -511,6 +546,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="minor alignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor alignments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
