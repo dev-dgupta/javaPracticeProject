@@ -6,7 +6,7 @@ import java.util.List;
 public class CustomHashMap {
     //    float loadFactor = 0.75f;
     int capacity = 16;
-    List[] backedArray;
+    List<Entry>[] backedArray;
 
     CustomHashMap() {
         backedArray = new LinkedList[capacity];
@@ -17,7 +17,7 @@ public class CustomHashMap {
         backedArray = new LinkedList[capacity];
     }
 
-    class Entry {
+    static class Entry {
         String key;
         Object value;
 
@@ -47,7 +47,7 @@ public class CustomHashMap {
         List<Entry> list = backedArray[index];
 
         if (list == null || list.isEmpty()) {
-            list = new LinkedList();
+            list = new LinkedList<>();
             list.add(new Entry(key, value));
         } else {
             boolean objFound = false;

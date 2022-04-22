@@ -2,8 +2,9 @@ package collectionsExample;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Objects;
 
-public class HashSetEqualsHashcodeProb {
+public class HashMapEqualsHashcodeProb {
 
     public static void main(String[] args) {
         // write your code here
@@ -11,7 +12,7 @@ public class HashSetEqualsHashcodeProb {
         Student s1 = new Student("ab", "Divya");
         Student s2 = new Student("de", "Gupta");
         Student s3 = new Student("ab", "Divya");
-        Student s4 = new Student();
+//        Student s4 = new Student();
 
 
         Map m = new HashMap<Student, Integer>();
@@ -25,6 +26,7 @@ public class HashSetEqualsHashcodeProb {
         System.out.println(m.get(s1));
         System.out.println(m.get(s2));
         System.out.println(m.get(s3));
+//        System.out.println(m.get(s4));
 //        System.out.println(m.get(new Student()));
 
 
@@ -73,7 +75,7 @@ class Student {
 
     @Override
     public int hashCode() {
-//        return Objects.hash(getId(), getName());
-        return 1;
+        return Objects.hash(getId(), getName());
+//        return 1;
     }
 }

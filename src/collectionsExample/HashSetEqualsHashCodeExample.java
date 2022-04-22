@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Set;
 
-public class LinkedHashMapExample {
+public class HashSetEqualsHashCodeExample {
 
     public static void main(String[] args) {
 	// write your code here
@@ -24,10 +24,6 @@ public class LinkedHashMapExample {
         System.out.println(a.hashCode());
         System.out.println(b.hashCode());
         System.out.println(set.size());
-
-//        LinkedHashMap linkedHashMap=new LinkedHashMap();
-//        linkedHashMap.computeIfPresent()
-
 
     }
 }
